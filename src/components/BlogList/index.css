@@ -1,0 +1,8 @@
+/* Write your CSS code here */
+.list-item {
+  display: flex;
+  justify-content: space-between;
+}
+.publishedDate{
+    margin-top: 35px;
+}
